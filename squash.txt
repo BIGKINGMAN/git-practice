@@ -1,0 +1,4 @@
+스쿼시
+git switch main
+git merge --squash 브랜치명
+git commit -m '메세지'
